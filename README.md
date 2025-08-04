@@ -15,7 +15,7 @@ My goal is to transition into a security operations consulting role, leveraging 
 
 | Skill                              | Associated Project                       |
 |------------------------------------|------------------------------------------|
-| ServiceNow SecOps Workflow Design  | [ServiceNow Incident Workflow Project](#) |
+| ServiceNow SecOps Workflow Design  | [ServiceNow Incident Workflow Project](https://github.com/TulsieD/ServiceNow-Incident-Workflow-Project) |
 | SIEM Implementation & Log Analysis | [SIEM Detection Lab](#)                  |
 | Vulnerability Assessment           | [Vulnerability Assessment Project](#)    |
 | Endpoint Security Hardening        | [Endpoint Hardening Project](#)          |
