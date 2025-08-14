@@ -7,7 +7,7 @@ I am currently building hands-on projects in **ServiceNow SecOps, SIEM, and inci
 ---
 
 ## 🎯 Objective
-My goal is to transition into a security operations consulting role, leveraging my IT background, industry certifications (**CySA+, PenTest+, Security+**), and ongoing portfolio projects to deliver scalable and secure solutions—while building expertise in **ServiceNow SecOps**.
+My goal is to transition into a security operations consulting role, leveraging my IT background, industry certifications (**CySA+, PenTest+, Security+**), and ongoing portfolio projects to deliver scalable and secure solutions.
 
 ---
 
